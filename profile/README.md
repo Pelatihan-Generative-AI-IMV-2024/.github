@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-    <img src="pic\GitHub Banner GAI.png">
+    <img src="pic\GitHub Banner GAI.png](https://github.com/Pelatihan-Generative-AI-IMV-2024/.github/blob/main/profile/pic/GitHub%20Banner%20GAI.png">
 </p>
 
 # Tentang Generative AI IMV 2024
